@@ -1,6 +1,6 @@
 # pixijs-react-games-example
 
-> The assets were not added due to copyright
+> The assets were not added due to copyright.
 
 An example of code of two educational games on garbage sorting and nature protection.
 Built with PixiJS, TypeScript and React for Next.js.
