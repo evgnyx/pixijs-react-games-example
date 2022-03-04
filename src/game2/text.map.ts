@@ -2,7 +2,7 @@ const fontFamily = 'CyrillicCooper, serif'
 
 export const textMap = {
   title: {
-    text: 'Find 15 items in the picture that are not needed in nature at all. Collect all trash in a bag',
+    text: 'Collect garbage to protect nature',
     style: {
       fontFamily,
       fontSize: 60,

@@ -2,7 +2,7 @@ const fontFamily = 'CyrillicCooper, serif'
 
 export const textMap = {
   title: {
-    text: 'let`s properly sort the garbage',
+    text: 'Sort game',
     style: {
       fontFamily,
       fontSize: 68,
