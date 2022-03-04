@@ -1,0 +1,98 @@
+{
+  "bottle": {
+    "caption": "Bottle",
+    "text": "Bottle description"
+  },
+  "paper": {
+    "caption": "Papers",
+    "text": "Papers description"
+  },
+  "shampoo": {
+    "caption": "Shampoo",
+    "text": "Shampoo description"
+  },
+  "jar": {
+    "caption": "Jar",
+    "text": "Jar description"
+  },
+  "yogurt": {
+    "caption": "Yogurt",
+    "text": "Yogurt description"
+  },
+  "can": {
+    "caption": "Can",
+    "text": "Can description"
+  },
+  "tetrapak": {
+    "caption": "Tetrapak",
+    "text": "Tetrapak description"
+  },
+  "accumulators": {
+    "caption": "Accumulators",
+    "text": "Accumulators description"
+  },
+  "lamp": {
+    "caption": "Lamp",
+    "text": "Lamp description"
+  },
+  "tire": {
+    "caption": "Tire",
+    "text": "Tire description"
+  },
+  "meds": {
+    "caption": "Meds",
+    "text": "Meds description"
+  },
+  "tv": {
+    "caption": "TV",
+    "text": "TV description"
+  },
+  "toy": {
+    "caption": "Toy",
+    "text": "Toy description"
+  },
+  "sweater": {
+    "caption": "Sweater",
+    "text": "Sweater description"
+  },
+  "iphone": {
+    "caption": "Iphone",
+    "text": "Iphone description"
+  },
+  "iron": {
+    "caption": "Iron",
+    "text": "Iron description"
+  },
+  "cloth": {
+    "caption": "Cloth",
+    "text": "Cloth description"
+  },
+  "apple": {
+    "caption": "Apple",
+    "text": "Apple description"
+  },
+  "candy": {
+    "caption": "Candy",
+    "text": "Candy description"
+  },
+  "banana": {
+    "caption": "Banana",
+    "text": "Banana description"
+  },
+  "diaper": {
+    "caption": "Diaper",
+    "text": "Diaper description"
+  },
+  "egg": {
+    "caption": "Egg",
+    "text": "Egg description"
+  },
+  "glass": {
+    "caption": "Glass",
+    "text": "Glass description"
+  },
+  "pizza": {
+    "caption": "Pizza",
+    "text": "Pizza description"
+  }
+}
